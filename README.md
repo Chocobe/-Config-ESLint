@@ -24,3 +24,15 @@ FrontEnd 정리
     ],
   },
 ```
+
+<br/>
+
+위 설정으로 자동수정 또는 표시가 안될경우, ESLint 버전을 "v5.x" 로 변경
+
+> 경로: /root/package.json
+
+```json
+  "eslint": "^5.16.0",
+  "eslint-loader": "^3.0.2",
+  "eslint-plugin-vue": "^5.2.3",
+```
