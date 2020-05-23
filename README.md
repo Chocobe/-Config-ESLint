@@ -7,7 +7,7 @@ FrontEnd 정리
 
 ```javascript
   rules: {
-    "no-console": "off,
+    "no-console": "off",
 
     "prettier/prettier": [
       "error",
