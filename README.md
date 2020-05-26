@@ -46,7 +46,7 @@ FrontEnd 정리
 
 > 경로: /root/package.json
 
-```json
+```javascript
 {
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.26.0",
@@ -59,6 +59,7 @@ FrontEnd 정리
 
 
 > 경로: /root/.eslintrc.js
+
 ```javascript
   module.exports = {
     root: true,
