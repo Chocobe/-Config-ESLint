@@ -1,7 +1,4 @@
-# FrontEnd
-FrontEnd 정리
-
-## 🐫 ESLint / Prettier 설정
+# 🐫 ESLint / Prettier 설정
 
 > 경로: /root/.eslintrc.js
 
@@ -42,7 +39,7 @@ FrontEnd 정리
 <br/><br/><hr/>
 
 
-## 🐫 Typescript/ESLint
+# 🐫 Typescript/ESLint
 
 > 경로: /root/package.json
 
